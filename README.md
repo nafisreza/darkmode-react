@@ -6,8 +6,8 @@ Embark on a visual journey with our Dynamic Theme Switcher, a React-based projec
 
 ### Key Features:
 
-⋅⋅* Dark and Light Theme Switching: Immerse your users in a personalized browsing experience by allowing them to effortlessly toggle between dark and light themes. Enhance usability and cater to diverse preferences with just a click.
+- Dark and Light Theme Switching: Immerse your users in a personalized browsing experience by allowing them to effortlessly toggle between dark and light themes. Enhance usability and cater to diverse preferences with just a click.
 
-⋅⋅* React Context API Integration: Delve into the world of state management and global theming with the React Context API. Learn how to efficiently manage and propagate state across your components, ensuring a consistent theme throughout your application.
+- React Context API Integration: Delve into the world of state management and global theming with the React Context API. Learn how to efficiently manage and propagate state across your components, ensuring a consistent theme throughout your application.
 
-⋅⋅* Tailwind CSS Styling: Elevate your project's aesthetic appeal using the utility-first approach of Tailwind CSS. Experience the ease of crafting responsive and visually stunning interfaces with minimal effort.
+- Tailwind CSS Styling: Elevate your project's aesthetic appeal using the utility-first approach of Tailwind CSS. Experience the ease of crafting responsive and visually stunning interfaces with minimal effort.
